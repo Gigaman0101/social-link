@@ -34,7 +34,7 @@ main {
 }
 
 .card-container {
-  width: max(50%, 400px);
+  width: max(50%, 25rem);
   /* min-width: 400px; */
   background: var(--grey-800);
   display: flex;
